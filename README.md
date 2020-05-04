@@ -1,4 +1,4 @@
-# Hackerrank-30-Days-Of-Code
+# Hackerrank-30-Days-Of-Code-Challenge
 
 C++ solutions of 30 Days of Code challenge by Hackerrank.
 
